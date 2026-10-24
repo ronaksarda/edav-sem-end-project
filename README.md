@@ -39,8 +39,3 @@ Exploratory Data Analysis and Visualization (EDAV) project evaluating content fo
    ```bash
    jupyter notebook instagram_engagement_analysis.ipynb
    ```
-
-4. **Rebuild report documents (Optional):**
-   ```bash
-   python build_full_report.py
-   ```
