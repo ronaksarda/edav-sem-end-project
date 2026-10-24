@@ -1,3 +1,16 @@
+#python cache and files
+
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+build_full_report.py
+
+#reports
+
+Ronak_Sarda_160125737123_EDAV_Course_End_Project_Report.docx
+Ronak_Sarda_160125737123_EDAV_Course_End_Project_Report.pdf
+
+#reports findings
+
+report_assets/
+
